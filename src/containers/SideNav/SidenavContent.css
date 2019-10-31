@@ -1,0 +1,17 @@
+
+.side-nav-toggle {
+  width: 92px;
+  background-color: #ffffff !important;
+  color: #ffffff !important;
+  border-right: 0 none !important;
+  z-index: 1250 !important;
+}
+
+.zmdi-hc-2x {
+    font-size: 2em !important;
+}
+.app-sidebar-toggle {
+   width: 92px;
+   min-width: 250px;
+   min-width: 100px;
+  }

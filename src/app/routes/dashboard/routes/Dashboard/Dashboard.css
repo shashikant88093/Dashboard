@@ -1,0 +1,15 @@
+@keyframes resize {
+  0% {
+    padding: 0;
+  }
+  50% {
+    padding: 0 30px;
+  }
+}
+.animate:hover {
+  animation-name: resize;
+  animation-duration: 1s;
+  animation-iteration-count: 2;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
